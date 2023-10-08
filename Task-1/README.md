@@ -15,7 +15,7 @@ The game generates a random number within a specified range, and the player need
 
 To run the game locally on your machine, follow these steps:
 
-  1. Clone the repository from the GitHub link:
+  1. Clone the repository from the GitHub link:"https://github.com/bharatigore/CODSOFT.git"
   2. Ensure you have Java Development Kit (JDK) installed on your system.
   3. Open the terminal or command prompt and navigate to the project's directory.
   4. Compile the Java source files:
