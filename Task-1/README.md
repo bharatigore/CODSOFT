@@ -20,6 +20,10 @@ To run the game locally on your machine, follow these steps:
   3. Open the terminal or command prompt and navigate to the project's directory.
   4. Compile the Java source files:
 
+      Javac NumberGuessingGame.java
+      java NumberGuessingGame.java
+
+
 # How to Play
   1. The game will prompt you to enter the range of numbers (e.g., 1 to 100).
   2. Once the range is set, the game will generate a random number within that range.
