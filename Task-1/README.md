@@ -1,5 +1,5 @@
 # Number Guessing Game Using java
-
+<img src="https://github.com/bharatigore/CODSOFT/blob/main/Task-1/Screenshot%202023-10-09%20235720.png?raw=true">
 # Description
 This is a Number Guessing Game built using Java as part of my Java Development internship at Codesoft. 
 The game generates a random number within a specified range, and the player needs to guess the number based on the hints provided by the game.
