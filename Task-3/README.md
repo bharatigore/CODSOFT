@@ -1,6 +1,6 @@
 # Task 3 : ATM Interface
 Welcome to the ATM Interface program! This program simulates a simple ATM interface, allowing users to perform transactions such as checking balance, depositing, and withdrawing funds.
-
+<img src="https://github.com/bharatigore/CODSOFT/blob/main/Task-3/Screenshot%202023-10-10%20191452.png" alt="ATM Interface"> 
 <h2>Features</h2> 
 &#9830;Display a menu with options to check balance, deposit, and withdraw funds.<br>
 &#9830; Perform transactions based on user input.<br>
