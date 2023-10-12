@@ -1,5 +1,6 @@
 # Student Management System
-The Student Management System is a console-based application that allows you to manage student data, including adding, removing, searching, and displaying students.
+The Student Management System is a console-based application that allows you to manage student data, including adding, removing, searching, and displaying students.<br><br><br>
+<img src="https://github.com/bharatigore/CODSOFT/blob/main/Task-5/Screenshot%202023-10-12%20103954.png"><br>
 <h2>Features</h2>
 &#9830; Add a Student.<br>
  &#9830; Remove a Student.<br>
